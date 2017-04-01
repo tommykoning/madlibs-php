@@ -1,0 +1,21 @@
+article {
+	width: 40%; 
+	padding: 30px;
+	background-color: purple;
+}
+
+header {
+	background-color: green;
+	width: 42.999%;
+	padding: 10px;
+}
+
+input {
+	float: right;
+}
+
+a {
+	border-style: solid;
+	border-color: black;
+	color: black
+}
